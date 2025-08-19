@@ -10,8 +10,7 @@ A estrutura deste projeto está organizada da seguinte forma:
 
 -   `TelecomX_BR_Desafio_2.ipynb`: O notebook principal contendo todo o código e análise realizada (desde o carregamento dos dados até a modelagem preditiva).
 -   `TelecomX_Data.json`: O arquivo original com os dados dos clientes.
--   [Opcional] `data/`: Pasta para armazenar dados processados (por exemplo, um arquivo CSV com os dados limpos e tratados, se você optar por salvá-lo).
--   [Opcional] `visualizations/`: Pasta para armazenar visualizações geradas durante a Análise Exploratória de Dados (EDA).
+
 
 ## Processo de Preparação dos Dados
 
